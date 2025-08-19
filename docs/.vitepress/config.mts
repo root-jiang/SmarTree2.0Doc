@@ -5,7 +5,7 @@ export default defineConfig({
   title: "SmarTree",
   description: "SmarTree帮助文档",
 
-  base:'/SmarTree2.0DOc/',
+  base:'/SmarTree2.0Doc/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
